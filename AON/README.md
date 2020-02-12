@@ -10,9 +10,10 @@ Test
     python test.py [test_txt] [lex_txt]
 	
 [test_txt] is the path to the annotation (eg., './svt.txt')
+
 [lex_txt] is the path to the lexicon (eg., './svt_lex.txt')
 	
-Test
+Train
 --------
     python test.py [train_txt] 
 	
