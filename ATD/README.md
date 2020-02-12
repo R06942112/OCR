@@ -18,6 +18,7 @@ Train
     python test.py [train_s_txt] [train_u_txt] 
 	
 [train_s_txt] is the path to the annotation of a sideways dataset (eg., './synth90k.txt')
+
 [train_u_txt] is the path to the annotation of an upright dataset(eg., './synth_ENGV.txt')
 
 
