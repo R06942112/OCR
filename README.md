@@ -6,6 +6,8 @@ Research of scene text recognition done to date has focused on sideways text rec
 ## **Network Architecture**
 ![image](https://github.com/R06942112/OCR/blob/master/architecture.jpg)
 
+<div align=center><img width="150" height="150" src="https://github.com/R06942112/OCR/blob/master/architecture.jpg"/></div>
+
 
 
 
