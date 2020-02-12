@@ -10,7 +10,7 @@ Research of scene text recognition done to date has focused on sideways text rec
 <div align=center><img width="500" src="https://github.com/R06942112/OCR/blob/master/architecture.jpg"/></div>
 
 ## **Submitted Paper**
-[A Scene Text Recognition System of Both Sideways and Upright Text in Arbitrary Orientation](https://drive.google.com/file/d/1KJiNZ9y59r3HLvsKfTqU1Oe85zGlFiMo/view?usp=sharing) 
+[A Scene Text Recognition System of Both Sideways and Upright Text in Arbitrary Orientation](https://drive.google.com/open?id=1jJks6Yot7e1P1XisPjol721vsg4pd__4)
 
 ## **Authors**
 
