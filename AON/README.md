@@ -1,4 +1,4 @@
-Convolutional Recurrent Neural Network
+AON
 ======================================
 
 This software implements the [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226), modified from [HuiZhang](https://github.com/huizhang0110/AON)
