@@ -173,9 +173,9 @@ def test(test_txt,lex_txt):
         acc_l = correct_l / cnt  
     
       
-    print('acc_s: ', acc_s)
+    print('accuracy: ', acc_s)
     if lex_txt != None:
-        print('acc_l: ', acc_l)
+        print('accuracy with lexicon: ', acc_l)
 
 
 

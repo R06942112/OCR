@@ -120,7 +120,7 @@ def test():
             correct = correct + 1 
     
     acc_c = correct / cnt
-    print('acc_c:', acc_c)
+    #print('acc_c:', acc_c)
     
     with open(flags.test_txt) as f:
         test = [line.rstrip() for line in f]
@@ -223,9 +223,9 @@ def test():
                 correct_l = correct_l + 1
         
         acc_l = correct_l / cnt   
-    print('acc_s: ', acc_s)
+    print('accuracy: ', acc_s)
     if flags.lex_txt != None:
-        print('acc_l: ', acc_l)
+        print('accuracy with lexicon: ', acc_l)
     
 if __name__ == '__main__':
     test()
